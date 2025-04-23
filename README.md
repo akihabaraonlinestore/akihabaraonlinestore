@@ -1,8 +1,8 @@
 # Akihabara Online Store
 
-![Akihabara Online Store Banner](https://via.placeholder.com/1200x400?text=Akihabara+Online+Store+-+Tech,+Clothes,+Gadgets+%26+More)
+![Akihabara Online Store Banner](https://github.com/akihabaraonlinestore/akihabaraonlinestore/blob/main/Tech%2C%20Clothes%2C%20Gadgets%20%26%20More%E2%80%94At%20Everyday%20Prices.png)
 
-**Tagline:** *Tech, Clothes, Gadgets & More—At Everyday Prices!*
+**Moto:** *Tech, Clothes, Gadgets & More—At Everyday Prices!*
 
 Welcome to Akihabara Online Store – your one-stop destination for the latest tech, trendy clothes, innovative gadgets, and much more, all at affordable everyday prices!
 
